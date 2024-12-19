@@ -2,6 +2,8 @@ RestaurantBot – foydalanuvchilarga restoranlar orqali buyurtmalar berish, stol
 menyulardagi taomlar haqida ma'lumot olish imkoniyatini yaratadigan Telegram bot. Ushbu bot
 orqali foydalanuvchilar restoranlarda mavjud bo‘lgan taomlar, ichimliklar, maxsus takliflar haqida
 ma'lumotga ega bo‘lishlari va o‘z buyurtmalarini osonlik bilan amalga oshirishlari mumkin.
+
+
 <img src="https://i.postimg.cc/SR0Jz4QD/menu.jpg"/>
 
 🌟 Asosiy imkoniyatlar
