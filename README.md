@@ -4,6 +4,8 @@ orqali foydalanuvchilar restoranlarda mavjud bo‘lgan taomlar, ichimliklar, max
 ma'lumotga ega bo‘lishlari va o‘z buyurtmalarini osonlik bilan amalga oshirishlari mumkin.
 
 
+
+
 <img src="https://i.postimg.cc/SR0Jz4QD/menu.jpg"/>
 
 🌟 Asosiy imkoniyatlar
