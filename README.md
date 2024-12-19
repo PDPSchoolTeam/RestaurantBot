@@ -5,9 +5,6 @@ ma'lumotga ega bo‘lishlari va o‘z buyurtmalarini osonlik bilan amalga oshiri
 
 
 
-
-<img src="https://i.postimg.cc/SR0Jz4QD/menu.jpg"/>
-
 🌟 Asosiy imkoniyatlar
 Menyularni ko‘rish: Restoranlarning menyularidagi taomlar va ichimliklar haqida ma'lumot olish.
 Xona band qilish: Xona band qilishda birinchi foydalanuvchi bilan ikkinchi foydalanuvchi band qilingan soat oralig'i 3 soat bolishi shart
